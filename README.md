@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, i'm Thâmis Medina 👋
 
 
 - 🔭 I’m currently working at Vindicce
