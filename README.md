@@ -1,9 +1,9 @@
-### Hi, i'm Thâmis Medina 👋
+### Hi, I'm Thâmis Medina 👋
 
 
-- 🔭 I’m currently working at Teky
-- 🌱 I’m currently learning REACT, Typescript, SASS, NODE
-- 💬 Ask me about HTML, CSS, JAVASCRIPT
-- 📫 How to reach me: https://www.linkedin.com/in/thamismedina
-- ⚡ Fun fact: I am currently moving from chemestry to developer :D
+🔍 I’m currently looking for new opportunities in development
+🌱 I’m learning React, TypeScript, SASS, and Node.js
+💬 Ask me about HTML, CSS, and JavaScript
+📫 How to reach me: linkedin.com/in/thamismedina
+⚡ Fun fact: I’m transitioning from Chemistry to Development and loving the journey! :D
 
